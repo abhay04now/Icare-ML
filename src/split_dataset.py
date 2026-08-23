@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 # ============================================================
 
 INPUT_FILE = Path(
-    "data/cleaned/final_cleaned_dataset.csv"
+    "data/cleaned/serialized_data.csv"
 )
 
 OUTPUT_DIR = Path(
