@@ -4,7 +4,7 @@
 # Clinical/raw data
 data/raw/
 data/cleaned/
-data/splits/
+
 
 # Generated ML outputs
 models/
